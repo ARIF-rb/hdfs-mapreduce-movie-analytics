@@ -7,6 +7,12 @@ A Hadoop MapReduce pipeline that processes a movie dataset to extract and analyz
 - **Python** — sys (stdin/stdout streaming)
 - **Hadoop** — HDFS, MapReduce Streaming
 
+## Prerequisites
+
+- Java 8 or 11
+- Apache Hadoop 3.x ([installation guide](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html))
+- Python 3.x available on all cluster nodes
+
 ## Project Structure
 
 ```
